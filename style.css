@@ -1,0 +1,30 @@
+body 
+{
+	background-color: cadetblue;
+	text-align: center;
+}
+
+h1
+{
+	font: small-caps bold 24px/1 sans-serif; 
+	font-size: 80px;
+	border: 4mm ridge purple;
+	background-color: gold;
+
+}
+
+ul
+{
+	list-style-position: inside;
+	font-size: 30px;
+}
+
+h2
+{	font: small-caps bold 24px/1 sans-serif; 
+	font-size: 40px;
+}
+
+p
+{
+	font-size: 20px
+}
