@@ -1,13 +1,30 @@
 body 
 {
-	background-color: cadetblue;
+	margin: 0px 0px 0px 0px
 }
 
+.top
+{
+	background-color: #495E88;
+	margin-bottom: 0px;
+}
+
+.bottom
+{
+	background-image: url("https://res.cloudinary.com/fleetnation/image/private/c_fit,w_1120/g_south,l_text:style_gothic2:%C2%A9%20David%20Izquierdo,o_20,y_10/g_center,l_watermark4,o_25,y_50/v1538409063/aosmegmfx2rtymqtaccj.jpg");
+    background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
 img
 {
+	background-color: #A0AEC1;
 	float: left;
-	height: 140px;
+	height: 250px;
 	margin: 10px 10px 0px 300px;
+	padding-top: 30px;
+	padding-left: 20px;
+	padding-right: 20px;
 }
 
 h1
@@ -15,6 +32,8 @@ h1
 	text-align: center;
 	font: small-caps bold 24px/1 sans-serif; 
 	font-size: 80px;
+	margin-top: 0px;
+	padding-top: 30px;
 }
 
 li
@@ -26,6 +45,7 @@ li
 	padding-left: 10px;
 	padding-right: 10px;
 	margin: 10px;
+	margin-bottom: 0px;
 	
 }
 
@@ -33,20 +53,44 @@ ul
 {
 	list-style-position: inside;
 	font-size: 30px;
-}
+	padding-bottom: 40px;
+	margin-bottom: 0px;
+} 
 
-h2
+nav
 {	
 	text-align: center;
 	font: small-caps bold 24px/1 sans-serif; 
 	font-size: 40px;
 }
 
+h2
+{
+	background-color: #A0AEC1;
+	text-align: center;
+	font: small-caps bold 24px/1 sans-serif; 
+	font-size: 30px;
+	margin: 0px 300px 0px 300px;
+	padding-top: 40px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
 p
 {
-	font-size: 20px;
-	margin: 20px 300px 20px 300px;
+	background-color: #A0AEC1;
+	font-size: 25px;
+	margin: 0px 300px 0px 300px;
+	padding-top: 30px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 40px;
 }
+
+
+
+
+
 
 
 
