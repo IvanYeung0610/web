@@ -38,11 +38,6 @@ body {
     text-decoration: underline;
 }
 
-
-.info {
-    border-style: inset;
-}
-
 .info p{
     width: auto;
     border-style: inset;

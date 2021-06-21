@@ -56,7 +56,7 @@ Trivia Question: What animal is commonly known as the ‘flying fox’?
 Answer: Bat
 
 Trivia Question: Which sea creature is recognized for having the largest brain?
-Answer: Sperm Whale
+Answer:  Sperm Whale
 
 Trivia Question: Which crustacean is able to growl when intimidating their enemies?
 Answer: Ghost Crab

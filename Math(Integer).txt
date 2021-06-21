@@ -140,7 +140,7 @@ Trivia Question: If there are 9 chocolate bars and Chris eats 3, how many are le
 Answer: 6.
 
 Trivia Question: If you multiply me by any other number, the answer will always remain the same. What number am I?
-Answer: 0.
+Answer: 0
 
 Trivia Question: I am a three-digit number. My second digit is four times bigger than the third digit. My first digit is three less than my second digit. Who am I?
 Answer: 141.
